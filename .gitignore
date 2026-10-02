@@ -2,3 +2,4 @@
 Thumbs.db
 server.log
 .playwright-mcp/
+__pycache__/
